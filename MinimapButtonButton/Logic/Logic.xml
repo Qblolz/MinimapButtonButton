@@ -1,0 +1,8 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+  <script file="Constants.lua"/>
+  <script file="Options.lua"/>
+  <script file="Main.lua"/>
+  <script file="Blacklist.lua"/>
+  <script file="Whitelist.lua"/>
+  <script file="Settings.lua"/>
+</Ui>

@@ -1,0 +1,8 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Include file="Core\Core.xml"/>
+    <Include file="Logic\Logic.xml"/>
+    <Include file="Layouts\Layouts.xml"/>
+    <Include file="Features\Features.xml"/>
+    <Include file="Skins\Skins.xml"/>
+    <Include file="Commands\Commands.xml"/>
+</Ui>

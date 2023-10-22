@@ -1,0 +1,6 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">>
+  <script file="Main.lua"/>
+  <script file="ElvUI.lua"/>
+  <script file="Tukui.lua"/>
+  <script file="Default.lua"/>
+</Ui>
