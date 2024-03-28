@@ -6,6 +6,7 @@
 ## Notes: Creates a button that collects all minimap buttons
 ## Notes-ruRU: Создает кнопку, которая собирает все значки миникарты воедино
 ## IconTexture: Interface\AddOns\MinimapButtonButton\Media\Logo.blp
+## X-Sirus-Update: https://github.com/Qblolz/MinimapButtonButton/tree/main/MinimapButtonButton
 
 ## X-Curse-Project-ID: 446096
 ## X-Wago-ID: pkNM4QGz
