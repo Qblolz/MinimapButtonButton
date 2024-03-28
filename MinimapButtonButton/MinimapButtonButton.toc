@@ -1,7 +1,7 @@
 ## Interface: 100107
 ## Title: MinimapButtonButton
 ## Title-ruRU: Универсальная кнопка миникарты
-## Version: 1.17.4
+## Version: 1.17.10
 ## Author: syndenbock
 ## Notes: Creates a button that collects all minimap buttons
 ## Notes-ruRU: Создает кнопку, которая собирает все значки миникарты воедино
